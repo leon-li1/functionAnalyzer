@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="MainMenu" project="FunctionAnalyzer - LeonLi" 
+    file="/FunctionAnalyzer - LeonLi/src/MainMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="194" x="-36" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="LoadingScreen" project="FunctionAnalyzer - LeonLi" 
+    file="/FunctionAnalyzer - LeonLi/src/LoadingScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="194" x="198" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Function" project="FunctionAnalyzer - LeonLi" 
+    file="/FunctionAnalyzer - LeonLi/src/Function.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="101" x="432" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="GraphFunctions" project="FunctionAnalyzer - LeonLi" 
+    file="/FunctionAnalyzer - LeonLi/src/GraphFunctions.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="194" x="573" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Results" project="FunctionAnalyzer - LeonLi" 
+    file="/FunctionAnalyzer - LeonLi/src/Results.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="194" x="807" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="IntervalChart" project="FunctionAnalyzer - LeonLi" 
+    file="/FunctionAnalyzer - LeonLi/src/IntervalChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="194" x="1041" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Instructions" project="FunctionAnalyzer - LeonLi" 
+    file="/FunctionAnalyzer - LeonLi/src/Instructions.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="194" x="1275" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
